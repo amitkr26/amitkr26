@@ -1,16 +1,17 @@
-## Hi there 👋
+# Amit Kumar
 
-<!--
-**amitkr26/amitkr26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc Electronics | Semiconductor & VLSI Enthusiast
 
-Here are some ideas to get you started:
+## Focus Areas
+- Digital Design & RTL
+- Embedded Systems
+- Semiconductor Devices
+- Magnetic Materials Research
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Research Work
+Fe80Co20 Thin Film Fabrication using DC Sputtering  
+Characterization: XRD, VSM, FMR
+
+## Currently Learning
+- Verilog & FPGA Design
+- AI in Physical Design (DSO.ai, Cerebrus)
