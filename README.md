@@ -1,162 +1,239 @@
 <div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=3000&pause=1000&multiline=true&width=600&height=100&lines=Hi+👋+I'm+Amit+Kumar;Electronics+Engineer+%7C+VLSI+Enthusiast+%7C+Researcher)
+
+# Hi 👋, I'm Amit Kumar
+
+### Electronics Engineer | Semiconductor Research Graduate | VLSI & Embedded Systems Enthusiast
+
+<p>
+🎓 M.Sc. Electronics (University of Delhi)<br>
+🔬 Semiconductor Research • Digital Design • Embedded Systems • FPGA
+</p>
+
+<p>
+<a href="https://github.com/amitkr26">
+<img src="https://komarev.com/ghpvc/?username=amitkr26&label=Profile%20Views&color=blue&style=flat" />
+</a>
+
+<a href="https://github.com/amitkr26?tab=followers">
+<img src="https://img.shields.io/github/followers/amitkr26?label=Followers&style=social" />
+</a>
+
+</p>
 
 </div>
 
 ---
 
-<div align="center">
-  
-  **Semiconductor & VLSI Innovator** | **Thin Film Research Specialist** | **Embedded Systems Developer**
-  
-  🎓 MSc Electronics (University of Delhi) | 🔬 Research | 💻 RTL Design | 📊 Physical Design & PPA Optimization
-  
-</div>
+# 👨‍💻 About Me
+
+I am an Electronics postgraduate from the **University of Delhi** with research experience in **magnetic thin films** and a strong interest in **Digital VLSI Design, Semiconductor Devices, FPGA Development, and Embedded Systems**.
+
+My master's research focused on the fabrication and characterization of **Fe₈₀Co₂₀ magnetic thin films** using **DC Magnetron Sputtering** and analysing their structural and magnetic properties.
+
+Currently I am strengthening my skills in:
+
+- RTL Design using Verilog
+- FPGA Design
+- Digital Electronics
+- Semiconductor Device Physics
+- Embedded Systems
+- Physical Design Fundamentals
+- AI applications in Semiconductor Design
+
+I enjoy building practical hardware projects while continuously learning modern ASIC and FPGA design methodologies.
 
 ---
 
-## 🚀 About Me
+# 🎓 Education
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│  Electronics Engineer | Semiconductor Researcher             │
-│  VLSI Designer | Embedded Systems Developer | Tech Blogger   │
-└─────────────────────────────────────────────────────────────┘
-```
+### University of Delhi
 
-I'm a passionate electronics engineer with a strong background in semiconductor physics, VLSI design, and embedded systems. Currently exploring cutting-edge technologies in AI-driven chip design and thin film characterization.
+**Master of Science (M.Sc.) — Electronics**
 
-### 🎯 Key Highlights
+Research Area:
 
-- **🎓 Academic Excellence**: MSc Electronics from University of Delhi
-- **🔬 Research Expertise**: 
-  - Fe80Co20 Thin Films via DC Sputtering
-  - Advanced Characterization (XRD, VSM, FMR)
-  - Spintronics & Magnetic Materials
-  - Semiconductor Device Physics
-- **💻 Hardware & Software**: 
-  - Verilog & RTL Design
-  - FPGA Projects & Implementation
-  - Embedded Systems Development
-  - Physical Design & PPA Optimization
-- **📚 Tech Blogger**: Sharing knowledge on electronics, VLSI, SEO, and web development
+- Fe₈₀Co₂₀ Magnetic Thin Films
+- DC Magnetron Sputtering
+- Spintronics
+- Semiconductor Materials
 
 ---
 
-## 🧠 Current Focus & Learning
+# 🔬 Research Experience
 
-<table align="center">
-  <tr>
-    <td align="center">⚙️<br><b>Verilog & RTL Design</b></td>
-    <td align="center">🎯<br><b>FPGA Projects</b></td>
-    <td align="center">🔌<br><b>Semiconductor Physics</b></td>
-  </tr>
-  <tr>
-    <td align="center">🏗️<br><b>Physical Design</b></td>
-    <td align="center">📈<br><b>PPA Optimization</b></td>
-    <td align="center">🤖<br><b>AI in VLSI</b></td>
-  </tr>
-</table>
+### Magnetic Thin Film Research
+
+Research on flexible magnetic thin films involving:
+
+- DC Magnetron Sputtering
+- X-Ray Diffraction (XRD)
+- Vibrating Sample Magnetometer (VSM)
+- Ferromagnetic Resonance (FMR)
+- Structural & Magnetic Characterisation
+- Semiconductor Materials
 
 ---
 
-## 💻 Tech Stack
+# 🚀 Currently Learning
 
-<div align="center">
+- RTL Design
+- Verilog HDL
+- FPGA Development
+- Digital IC Design
+- CMOS Design
+- Physical Design Fundamentals
+- Static Timing Analysis (STA)
+- Low Power VLSI
+- AI in Semiconductor Engineering
 
-### Languages & Hardware
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Verilog](https://img.shields.io/badge/Verilog-FF6B6B?style=for-the-badge&logo=nvidia&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+---
 
-### Tools & Technologies
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+# 💻 Technical Skills
+
+## Programming Languages
+
+![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c&logoColor=white)
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
+
+![Verilog](https://img.shields.io/badge/Verilog-red?style=for-the-badge)
+
+---
+
+## Hardware & Embedded
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino)
+
 ![FPGA](https://img.shields.io/badge/FPGA-Design-blue?style=for-the-badge)
 
-### Research & Characterization
-- **XRD** (X-ray Diffraction)
-- **VSM** (Vibrating Sample Magnetometer)
-- **FMR** (Ferromagnetic Resonance)
-- **DC Sputtering** & Thin Film Fabrication
+---
 
-</div>
+## Tools
+
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+
+![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge)
 
 ---
 
-## 📊 GitHub Analytics
+## Research Tools
+
+- XRD
+- VSM
+- FMR
+- Origin
+- DC Magnetron Sputtering
+
+---
+
+# 📂 Featured Projects
+
+## Semiconductor & VLSI
+
+- RTL Design Projects *(Coming Soon)*
+- FPGA Design Projects *(Coming Soon)*
+- Verilog Digital Circuits *(Coming Soon)*
+
+## Research
+
+- Fe₈₀Co₂₀ Thin Film Research
+
+## Embedded Systems
+
+- Arduino Projects
+- IoT Applications
+
+---
+
+# 📈 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=amitkr26&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitkr26&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🎯 Areas of Interest
+
+- Semiconductor Technology
+- Digital VLSI Design
+- FPGA Development
+- Embedded Systems
+- ASIC Design
+- Semiconductor Research
+- AI for Chip Design
+- Electronics Education
+
+---
+
+# 🌱 2026 Learning Goals
+
+- Build 20+ Verilog Projects
+- Complete FPGA Design Portfolio
+- Learn Physical Design Flow
+- Learn Static Timing Analysis
+- Build RISC-V Processor
+- Contribute to Open Source
+- Strengthen Python for Hardware Automation
+
+---
+
+# 🏆 Achievements
+
+- 🎓 M.Sc. Electronics
+- 🔬 Semiconductor Research Experience
+- 🧪 Hands-on Thin Film Fabrication
+- 📊 Magnetic Material Characterisation
+- 📖 UGC-NET Qualified (Ph.D. Eligible)
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/amitkr26">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/amitkr26">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://x.com/Amitkrr26">
+<img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x"/>
+</a>
+
+<a href="https://amitkr26.blogspot.com">
+<img src="https://img.shields.io/badge/Blog-orange?style=for-the-badge&logo=blogger"/>
+</a>
+
+<a href="mailto:your-email@example.com">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Quote
+
+> **"Great hardware is built by engineers who never stop learning."**
+
+---
 
 <div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=amitkr26&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amitkr26&theme=midnight-purple&hide_border=true" width="48%" />
-  
-</div>
 
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitkr26&theme=midnight-purple&hide_border=true&layout=compact" width="48%" />
-  
-</div>
+### Thank you for visiting my profile ⭐
 
----
+If you like my work, consider following me and exploring my repositories.
 
-## 🏆 Expertise Areas
-
-| Area | Skills |
-|------|--------|
-| **VLSI & Digital Design** | RTL Coding, Logic Design, Timing Analysis, Physical Design, DFT |
-| **Semiconductor Research** | Thin Films, Magnetic Materials, Device Characterization, Spintronics |
-| **Embedded Systems** | Microcontroller Programming, FPGA, IoT Solutions, Real-time Systems |
-| **Software Development** | C/C++, Python, Algorithm Design, Data Structures |
-| **Web & Content** | Tech Blogging, SEO Optimization, Digital Marketing, Web Design |
-
----
-
-## 📚 Featured Projects & Interests
-
-- 🎓 **Thin Film Research**: Fe80Co20 magnetic thin films via DC sputtering
-- 🔌 **VLSI Design**: Advanced RTL projects and FPGA implementations
-- 🤖 **AI in Semiconductor**: Exploring machine learning for chip design optimization
-- 💡 **IoT & Embedded**: Smart systems development with Arduino and microcontrollers
-- 📖 **Knowledge Sharing**: Technical blogging and educational content creation
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amitkr26)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Amitkrr26)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/amit.kr26)
-[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://amitkr26.blogspot.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-
-</div>
-
----
-
-## 💭 My Philosophy
-
-> **"Engineering is not just coding. It is designing systems that scale elegantly while solving real-world problems with innovation, precision, and purpose."**
-
-<div align="center">
-
-### Let's collaborate on projects that push the boundaries of semiconductor technology! 🚀
-
-</div>
-
----
-
-<div align="center">
-  
-  ⭐ If you find my work interesting, feel free to star my repositories and follow for updates!
-  
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-  
 </div>
