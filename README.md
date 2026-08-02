@@ -2,11 +2,12 @@
 
 # Hi 👋, I'm Amit Kumar
 
-### Electronics Engineer | Semiconductor Research Graduate | VLSI & Embedded Systems Enthusiast
+### M.Sc. Electronics | Thin Film & Semiconductor Research | Embedded Systems | VLSI Learner
 
 <p>
-🎓 M.Sc. Electronics (University of Delhi)<br>
-🔬 Semiconductor Research • Digital Design • Embedded Systems • FPGA
+🎓 M.Sc. Electronics, University of Delhi South Campus (2025)<br>
+🔬 Thin Film Fabrication (DC Sputtering) • XRD • VSM • FMR • Embedded Systems<br>
+📖 UGC-NET Qualified (Electronic Science) — Ph.D. Eligible
 </p>
 
 <p>
@@ -24,179 +25,91 @@
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-I am an Electronics postgraduate from the **University of Delhi** with research experience in **magnetic thin films** and a strong interest in **Digital VLSI Design, Semiconductor Devices, FPGA Development, and Embedded Systems**.
+I'm an Electronics postgraduate from the **University of Delhi** with hands-on research experience in **magnetic thin films** and a growing interest in **VLSI/RTL design, digital electronics, and embedded systems**.
 
-My master's research focused on the fabrication and characterization of **Fe₈₀Co₂₀ magnetic thin films** using **DC Magnetron Sputtering** and analysing their structural and magnetic properties.
+My M.Sc. dissertation focused on the **fabrication of Fe₈₀Co₂₀ thin films on flexible copper tape substrates via DC magnetron sputtering**, followed by structural and magnetic characterization using **XRD, VSM, and FMR**.
 
-Currently I am strengthening my skills in:
+I'm currently building foundational skills in:
 
-- RTL Design using Verilog
-- FPGA Design
-- Digital Electronics
-- Semiconductor Device Physics
-- Embedded Systems
-- Physical Design Fundamentals
-- AI applications in Semiconductor Design
-
-I enjoy building practical hardware projects while continuously learning modern ASIC and FPGA design methodologies.
+- Verilog / RTL basics
+- Digital & analog circuit design
+- Semiconductor device physics
+- Embedded systems (Arduino, ESP32, 8051)
 
 ---
 
-# 🎓 Education
+## 🎓 Education
 
-### University of Delhi
+**M.Sc. Electronics** — Department of Electronic Science, University of Delhi South Campus (2023–2025)
+CGPA: 7.27/10
 
-**Master of Science (M.Sc.) — Electronics**
-
-Research Area:
-
-- Fe₈₀Co₂₀ Magnetic Thin Films
-- DC Magnetron Sputtering
-- Spintronics
-- Semiconductor Materials
+**B.Sc. (Hons.) Electronic Science** — Acharya Narendra Dev College, University of Delhi (2020–2023)
+CGPA: 7.43/10
 
 ---
 
-# 🔬 Research Experience
+## 🔬 Research Experience
 
-### Magnetic Thin Film Research
+**M.Sc. Dissertation — Study of Transition Metal Alloy Based Thin Films on Flexible Substrate**
+*Jan–May 2025, Supervisor: Prof. Manoj Kumar Khanna, Dept. of Electronic Science, UDSC*
+*(Lab access: Special Centre for Nanoscience, JNU, under Prof. Bijoy Kumar Kuanr)*
 
-Research on flexible magnetic thin films involving:
-
-- DC Magnetron Sputtering
-- X-Ray Diffraction (XRD)
-- Vibrating Sample Magnetometer (VSM)
-- Ferromagnetic Resonance (FMR)
-- Structural & Magnetic Characterisation
-- Semiconductor Materials
+- Fabricated Fe₈₀Co₂₀ thin films (6 nm, 12 nm, 15 nm) on flexible copper tape via DC sputtering
+- Structural characterization using **X-Ray Diffraction (XRD)** — crystallite size via Debye-Scherrer analysis
+- Magnetic characterization using **Vibrating Sample Magnetometry (VSM)** and **Ferromagnetic Resonance (FMR)** (Keysight VNA + coplanar waveguide setup)
+- Observed thickness-dependent trends: coercivity dropped from 91.09 Oe (6 nm) to 27.98 Oe (15 nm); effective Gilbert damping constant decreased from 72.2×10⁻³ to 3.22×10⁻³
 
 ---
 
-# 🚀 Currently Learning
+## 💼 Experience
 
-- RTL Design
-- Verilog HDL
-- FPGA Development
-- Digital IC Design
-- CMOS Design
-- Physical Design Fundamentals
-- Static Timing Analysis (STA)
-- Low Power VLSI
-- AI in Semiconductor Engineering
+**Technical Support Trainee — Sony India** (via Superwell Services Pvt. Ltd.) | Sep–Nov 2025
+Diagnosed and resolved hardware, display, and connectivity issues on Sony Bravia TV systems; documented resolutions and escalated complex cases to field engineering teams.
+
+**Electronics Intern — Sagedel Tech LLP** | Jul–Dec 2023
+Designed and tested analog/digital circuits (BJT, 555 Timer IC, Arduino); built and tested an autonomous line-following and obstacle-detection robot.
 
 ---
 
-# 💻 Technical Skills
+## 💻 Technical Skills
 
-## Programming Languages
+**Programming:** ![C](https://img.shields.io/badge/C-blue?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-Basic-yellow?style=flat-square&logo=python) ![Verilog](https://img.shields.io/badge/Verilog-Beginner-red?style=flat-square)
 
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c&logoColor=white)
+**Embedded/Hardware:** ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino) ESP32 · 8051
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+**Simulation & Analysis:** MATLAB · Origin Pro · Proteus · Multisim · PSpice
 
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
-
-![Verilog](https://img.shields.io/badge/Verilog-red?style=for-the-badge)
+**Research Techniques:** DC Sputtering · XRD · VSM · FMR
 
 ---
 
-## Hardware & Embedded
+## 📂 Featured Projects
 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino)
-
-![FPGA](https://img.shields.io/badge/FPGA-Design-blue?style=for-the-badge)
-
----
-
-## Tools
-
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
-
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
-
-![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge)
+- **ESP32-CAM Based Digital Microscope** — live-streaming imaging system built on the ESP32 platform
+- **Arduino Line-Follower Robot** — IR-sensor-based autonomous navigation with motor control
+- **M.Sc. Dissertation — FeCo Thin Films & Spintronics** — DC sputtering fabrication + XRD/VSM/FMR characterization
 
 ---
 
-## Research Tools
+## 🏆 Certifications & Achievements
 
-- XRD
-- VSM
-- FMR
-- Origin
-- DC Magnetron Sputtering
+- 📖 UGC-NET, Electronic Science (Dec 2025) — Qualified for Ph.D. admission
+- 🎓 VLSI for Beginners — NIELIT Calicut (April 2025, 5-day certification)
+- 🔬 M.Sc. Dissertation on FeCo thin films and spintronics
 
 ---
 
-# 📂 Featured Projects
+## 🌱 2026 Goals
 
-## Semiconductor & VLSI
-
-- RTL Design Projects *(Coming Soon)*
-- FPGA Design Projects *(Coming Soon)*
-- Verilog Digital Circuits *(Coming Soon)*
-
-## Research
-
-- Fe₈₀Co₂₀ Thin Film Research
-
-## Embedded Systems
-
-- Arduino Projects
-- IoT Applications
+- Build foundational Verilog/RTL projects
+- Strengthen Python for hardware-adjacent scripting
+- Continue applying to research assistant, semiconductor, and embedded systems roles
 
 ---
 
-# 📈 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=amitkr26&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitkr26&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🎯 Areas of Interest
-
-- Semiconductor Technology
-- Digital VLSI Design
-- FPGA Development
-- Embedded Systems
-- ASIC Design
-- Semiconductor Research
-- AI for Chip Design
-- Electronics Education
-
----
-
-# 🌱 2026 Learning Goals
-
-- Build 20+ Verilog Projects
-- Complete FPGA Design Portfolio
-- Learn Physical Design Flow
-- Learn Static Timing Analysis
-- Build RISC-V Processor
-- Contribute to Open Source
-- Strengthen Python for Hardware Automation
-
----
-
-# 🏆 Achievements
-
-- 🎓 M.Sc. Electronics
-- 🔬 Semiconductor Research Experience
-- 🧪 Hands-on Thin Film Fabrication
-- 📊 Magnetic Material Characterisation
-- 📖 UGC-NET Qualified (Ph.D. Eligible)
-
----
-
-# 📫 Connect With Me
+## 📫 Connect With Me
 
 <p align="center">
 
@@ -208,32 +121,14 @@ Research on flexible magnetic thin films involving:
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://x.com/Amitkrr26">
-<img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x"/>
-</a>
-
-<a href="https://amitkr26.blogspot.com">
-<img src="https://img.shields.io/badge/Blog-orange?style=for-the-badge&logo=blogger"/>
-</a>
-
-<a href="mailto:your-email@example.com">
+<a href="mailto:amitkrbsc26@gmail.com">
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
 </a>
 
 </p>
 
----
-
-# 💡 Quote
-
-> **"Great hardware is built by engineers who never stop learning."**
-
----
-
 <div align="center">
 
-### Thank you for visiting my profile ⭐
-
-If you like my work, consider following me and exploring my repositories.
+Thanks for visiting my profile ⭐
 
 </div>
